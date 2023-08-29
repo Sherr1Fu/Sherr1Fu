@@ -1,0 +1,10 @@
+本地创建文件夹，在文件夹中启动git bash
+1.git init 初始化仓库
+2.git add test.txt 将文件添加到仓库
+3.git commit -m "some informaion" 将add的文件提交到仓库
+4.git clone https://github.com/xxx/yyy.git 复制远程仓库到本地
+5.git log 查看仓库日志
+6.git status 查看仓库状态
+7.git push origin master 将本地仓库内容push到远程仓库
+8.git remote add origin https://github.com/xxx/yyy.git 关联远程仓库
+9.git pull origin master 同步远程仓库和本地仓库
